@@ -1,0 +1,32 @@
+{
+	"mainIntent":{
+		"greeting":"Welcome to Airport Baggage Helper! How can I assist you?",
+		"trackingBaggage": "Hi Ms. Gloria, we are trying our best to locate your baggage. Is there anything we can do to help?",
+		"baggageFound": "Hi Ms. Gloria, Good News! Your baggage has been located. It will reach Heathrow on or before tomorrow",
+		"baggageReached": "Hi Ms. Gloria, we are happy to inform you that your baggage has arrived Heathrow airport. You can collect it from the airport between 9 AM to 9 PM. Please carry your passport, boarding pass and baggage tag along with you for customs verification."
+	},
+	"baggageMiss":{
+		"baggageMissInitialMsg":"Sorry to hear that! I can assist in getting it back to you. Please tell me your PNR number.",
+		"baggageMissExistingMsg":"Hi Ms. Gloria, it seems like you've already filed a claim for a missed baggage.\n Is this about another baggage?"
+	},
+	"getPNR":{
+		"getPNRMsg":"I understand you are a visitor here in London. Can I still reach you @ +91 782 346 1234?"
+	},
+	"getBaggageNumber":{
+		"getBaggageNumberMsg":"Please provide a brief description of your baggage. I’ll record it in the claim."
+	},
+	"getBaggageDescription":{
+		"getBaggageDescriptionMsg": "I understand you are a visitor here in London. Can I still reach you @ +91 782 346 1234?"
+	},
+	"createBaggageLostClaimSuccess":{
+		"successMsg":" "
+	},
+	"baggageStatus":{
+		"greeting":"Hi, currently you don't have any active tickets",
+		"trackingBaggage": "Hi Ms. Gloria, we are trying our best to locate your baggage. Is there anything we can do to help?",
+		"baggageFound": "Hi Ms. Gloria, Good News! Your baggage has been located. It will reach Heathrow on or before tomorrow",
+		"baggageReached": "Hi Ms. Gloria, we are happy to inform you that your baggage has arrived Heathrow airport. You can collect it from the airport between 9 AM to 9 PM. Please carry your passport, boarding pass and baggage tag along with you for customs verification."
+	}
+
+	
+}

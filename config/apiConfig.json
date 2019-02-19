@@ -1,0 +1,5 @@
+{
+	"viewMeeting" : "https://graph.microsoft.com/v1.0/me/calendarview?startdatetime=startTime&enddatetime=endTime",
+	"meeting" : "https://graph.microsoft.com/v1.0/me/events/",
+	"getAttendeeForMeeting" : "https://graph.microsoft.com/v1.0/users?$select=displayName,mail,userPrincipalName,jobTitle&$Filter=startswith(displayName,'searchTxt') or startswith(mail,'searchTxt') or startswith(userPrincipalName,'searchTxt') or startswith(surname,'searchTxt')"
+}

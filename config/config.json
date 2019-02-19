@@ -1,0 +1,32 @@
+{
+	"responseObj" : {
+	  "data": {
+		"google": {			
+		  "expectUserResponse": true,
+		  "richResponse": {
+			"items": [],
+			"suggestions":[]
+		  }		 
+		}
+	  }
+	},
+	"meeting" :{
+		"subject": "",
+		"body": {
+		  "contentType": "HTML",
+		  "content": ""
+		},
+		"start": {
+			"dateTime": "",
+			"timeZone": ""
+		},
+		"end": {
+			"dateTime": "",
+			"timeZone": ""
+		},
+		"location":{
+			"displayName":""
+		},
+		"attendees": []
+	 }
+}

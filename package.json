@@ -1,0 +1,23 @@
+{
+  "name": "AirlineBaggageHelper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hari Krishnan V",
+  "license": "ISC",
+  "dependencies": {
+    "actions-on-google": "1.7.0",
+    "body-parser": "1.18.2",
+    "date-and-time": "^0.6.2",
+    "express": "4.16.2",
+    "express-session": "^1.15.6",
+    "forever": "^0.15.3",
+    "request": "^2.83.0",
+    "twilio": "^3.24.0"
+  }
+}
